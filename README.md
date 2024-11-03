@@ -8,7 +8,7 @@ This account contains codes and resources for differents projets (schools and pe
 
 Most of the repositories are public except codes I made as an electronic consultants for [Junior ISEP](https://www.juniorisep.com/) or anything related to HackTheBox courses and exams.
 
-In the futur I will add other projects I made regarding hardware security such as TPM sniffing, customs PCBs I made, and more !
+In the futur I will add other projects regarding hardware security such as TPM sniffing, customs PCBs I made, and more !
 
 ⬇️ You can learn more about me on LinkedIn ⬇️
 
