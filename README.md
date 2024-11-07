@@ -32,6 +32,7 @@ In the futur I will add other projects regarding hardware security such as TPM s
 <summary>Personals projects and resources</summary>
 <br>
 
+- [Bitlocker bypass with TPM sniffing](https://github.com/Theophile-Wemaere/TPM-sniffing)
 - [CVE PoC Downloader](https://github.com/Theophile-Wemaere/poc-on-github-downloader)
 - [YWH Dojo writeups](https://github.com/Theophile-Wemaere/YWH-writeups)
 - [Raspberry PI and Flipper Zero stock locator](https://github.com/Theophile-Wemaere/pylocator)
