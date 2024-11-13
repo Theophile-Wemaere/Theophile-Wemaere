@@ -24,7 +24,7 @@ In the futur I will add other projects regarding hardware security such as TPM s
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theophile-Wemaere&hide_border=false&include_all_commits=true&layout=compact&card_width=320&langs_count=8&theme=dark" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Theophile-Wemaere&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Theophile-Wemaere&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
 
