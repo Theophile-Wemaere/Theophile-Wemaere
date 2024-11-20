@@ -52,7 +52,6 @@ In the futur I will add other projects regarding hardware security such as TPM s
   - [MINI RPG](https://github.com/Theophile-Wemaere/MINI-RPG-LITE-3000)
   - [Seven Wonders Architects](https://github.com/Theophile-Wemaere/A1-prog-seven-wonders-architects)
 - Web projects such as :
-  - [aubouleau](https://github.com/Theophile-Wemaere/aubouleau) : Django and Tailwind application to consult ISEP available rooms, find equipment and report problems
   - [Tailored Social Network](https://github.com/Theophile-Wemaere/aubouleau) : Social Network built with Flask with recommendation algorithms, chatting, ...
 - Cybersecurity project such as [Lincox](https://github.com/Theophile-Wemaere/lincox), a vulnerability scanner written in python (work in progress)
 
