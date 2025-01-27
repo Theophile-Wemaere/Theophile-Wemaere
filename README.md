@@ -69,4 +69,4 @@ In the futur I will add other projects regarding hardware security such as TPM s
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=Theophile-Wemaere&label=Visitors&color=8&icon=1&pretty=true" />
+<!-- <img src="https://visitcount.itsvg.in/api?id=Theophile-Wemaere&label=Visitors&color=8&icon=1&pretty=true" /> -->
